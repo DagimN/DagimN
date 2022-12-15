@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React, Flutter, Node.js**
 
-- 📫 How to reach me **dagmnebiat@gmail.com**
+- 📫 How to reach me **dagmnebiat.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
